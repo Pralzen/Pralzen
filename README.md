@@ -78,30 +78,35 @@ Atualmente, também desenvolvo projetos próprios, explorando desenvolvimento de
 
 ---
 
-## ◈ 04. PROJETOS EM DESENVOLVIMENTO
+## ◈ 04. FEATURED PROJECTS
 
 <div align="center">
 
-<a href="https://github.com/Pralzen">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pralzen&repo=Progenzi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" />
-</a>
+### ⚡ PROGENZI
+**Financial Management System**
+
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-00E5FF?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
-### ◇ PROGENZI — Financial Management System
+A financial management platform designed to simplify financial control for small businesses.
 
-Sistema de gestão financeira desenvolvido com foco em pequenos negócios.
+**Core features:**
+- Financial transaction management
+- Income and expense tracking
+- Payment registration
+- Financial dashboards
+- Business performance monitoring
 
-**Objetivo:** simplificar o controle financeiro, registrar entradas e saídas, acompanhar pagamentos e apresentar informações através de dashboards.
+**Technology stack:**
 
-**Tecnologias do projeto:**
-- Python
-- FastAPI
-- PostgreSQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Visão:** transformar o controle financeiro em uma experiência simples, organizada e inteligente.
+**Vision:** Making financial management simpler, smarter and more accessible.
 
----
+*Private repository — source code is not publicly available.*
 
 ## ◈ 05. CURRENT OBJECTIVES
 
