@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0e7490,100:2563eb&text=LUAN%20SILVA&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=ECONOMICS%20%7C%20DATA%20ANALYSIS%20%7C%20TECHNOLOGY&descAlignY=58&descSize=15&animation=fadeIn" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=SYSTEM+INITIALIZED...;DATA+ANALYSIS+%7C+ECONOMICS;BUILDING+SOLUTIONS+WITH+PYTHON;SOFTWARE+DEVELOPMENT+%7C+INNOVATION;TURNING+DATA+INTO+DECISIONS" />
 
 <br>
@@ -17,44 +15,43 @@
 
 ## ◈ 01. SOBRE MIM
 
-```yaml
-name: Luan Silva
-username: Pralzen
-profession: Data Analyst
-interests:
-  - Data Analysis
-  - Economics
-  - Software Development
-  - Artificial Intelligence
-  - Technology & Innovation
+### Luan Silva
 
-mission: Transforming data into intelligent solutions.
-```
+**Data Analyst | Economics | Technology**
 
-Sou interessado na conexão entre **Economia, Tecnologia e Análise de Dados**.
+Tenho interesse na conexão entre **Economia, Tecnologia e Análise de Dados**.
 
-Busco desenvolver soluções tecnológicas, transformar informações em conhecimento e utilizar ferramentas de programação para resolver problemas reais.
+Busco transformar dados em informações estratégicas e desenvolver soluções tecnológicas para resolver problemas reais.
 
-Atualmente, também desenvolvo projetos próprios, explorando desenvolvimento de software, bancos de dados, automação e inteligência artificial.
+Atualmente, exploro programação, bancos de dados, desenvolvimento de software, automação e inteligência artificial.
+
+**Áreas de interesse:**
+- Análise de Dados
+- Economia
+- Desenvolvimento de Software
+- Inteligência Artificial
+- Tecnologia e Inovação
+
+> **MISSION:** Transforming data into intelligent solutions.
 
 ---
 
-## ◈ 02. TECH STACK
+## ◈ 02. CONJUNTO TECNOLÓGICO
 
 <div align="center">
 
-### PROGRAMMING LANGUAGES
+### LINGUAGENS DE PROGRAMAÇÃO
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
 
-### DATABASES & DATA
+### BANCOS DE DADOS
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 
-### FRAMEWORKS & TOOLS
+### ESTRUTURAS E FERRAMENTAS
 
 <img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode&theme=dark" />
 
@@ -78,40 +75,43 @@ Atualmente, também desenvolvo projetos próprios, explorando desenvolvimento de
 
 ---
 
-## ◈ 04. FEATURED PROJECTS
+## ◈ 04. PROJETOS EM DESTAQUE
 
 <div align="center">
 
 ### ⚡ PROGENZI
-**Financial Management System**
+
+**Sistema de Gestão Financeira**
 
 <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-00E5FF?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
-A financial management platform designed to simplify financial control for small businesses.
+Uma plataforma de gestão financeira desenvolvida para simplificar o controle financeiro de pequenos negócios.
 
-**Core features:**
-- Financial transaction management
-- Income and expense tracking
-- Payment registration
-- Financial dashboards
-- Business performance monitoring
+**Principais funcionalidades:**
+- Registro de entradas e saídas financeiras
+- Controle de receitas e despesas
+- Cadastro de serviços e formas de pagamento
+- Acompanhamento do fluxo financeiro
+- Painel de indicadores e desempenho empresarial
 
-**Technology stack:**
+**Conjunto tecnológico:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Vision:** Making financial management simpler, smarter and more accessible.
+**Visão:** Tornar a gestão financeira mais simples, inteligente e acessível.
 
-*Private repository — source code is not publicly available.*
+*Repositório privado — código-fonte não disponível publicamente.*
 
-## ◈ 05. CURRENT OBJECTIVES
+---
 
-```bash
-┌──[ PRA LZEN@SYSTEM ]─────────────────────┐
+## ◈ 05. OBJETIVOS ATUAIS
+
+```text
+┌──[ PRALZEN@SYSTEM ]──────────────────────┐
 │                                          │
 │  > INITIALIZING DEVELOPMENT GOALS...     │
 │                                          │
@@ -130,7 +130,7 @@ A financial management platform designed to simplify financial control for small
 
 ---
 
-## ◈ 06. GITHUB STATISTICS
+## ◈ 06. ESTATÍSTICAS DO GITHUB
 
 <div align="center">
 
@@ -144,37 +144,45 @@ A financial management platform designed to simplify financial control for small
 
 ---
 
-## ◈ 07. CONTRIBUTION ACTIVITY
+## ◈ 07. ATIVIDADE DE CONTRIBUIÇÃO
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pralzen&bg_color=0D1117&color=00E5FF&line=0891B2&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY" width="100%"/>
+Acompanhe minhas contribuições e atividades diretamente no GitHub.
+
+[![VIEW CONTRIBUTIONS](https://img.shields.io/badge/VIEW-GITHUB%20CONTRIBUTIONS-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/Pralzen?tab=overview)
 
 </div>
 
 ---
 
-## ◈ 08. GITHUB TROPHIES
+## ◈ 08. TROFÉUS DO GITHUB
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pralzen&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10" width="100%"/>
+Confira minhas conquistas e reconhecimentos diretamente no perfil.
+
+[![GITHUB ACHIEVEMENTS](https://img.shields.io/badge/GITHUB-ACHIEVEMENTS-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/Pralzen?tab=achievements)
 
 </div>
 
 ---
 
-## ◈ 09. CONTRIBUTION SNAKE
+## ◈ 09. CONTRIBUIÇÃO COBRA
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Pralzen/Pralzen/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pralzen/Pralzen/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pralzen/Pralzen/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Pralzen/Pralzen/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 </div>
 
 ---
 
-## ◈ 10. CONNECT WITH ME
+## ◈ 10. CONECTE-SE COMIGO
 
 <div align="center">
 
@@ -187,8 +195,6 @@ A financial management platform designed to simplify financial control for small
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0e7490,100:020617&height=120&section=footer"/>
 
 ### `SYSTEM STATUS: ALWAYS LEARNING`
 
