@@ -1,3 +1,11 @@
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B50,100:00E5FF&height=200&section=header&text=LUAN%20SILVA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=ECONOMICS%20%7C%20DATA%20ANALYST%20%7C%20TECHNOLOGY&descSize=16&descAlignY=60&descColor=00E5FF"
+    alt="Luan Silva - Economics | Data Analyst | Technology"
+  />
+</div>
+
 # ⚡ LUAN SILVA | DATA ANALYST & DEVELOPER
 
 <div align="center">
