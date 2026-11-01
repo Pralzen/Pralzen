@@ -6,7 +6,7 @@
   />
 </div>
 
-# ⚡ LUAN SILVA | DATA ANALYST & DEVELOPER
+#  LUAN SILVA | DATA ANALYST & DEVELOPER
 
 <div align="center">
 
@@ -87,7 +87,7 @@ Atualmente, exploro programação, bancos de dados, desenvolvimento de software,
 
 <div align="center">
 
-### ⚡ PROGENZI
+###  PROGENZI
 
 **Sistema de Gestão Financeira**
 
@@ -111,8 +111,6 @@ Uma plataforma de gestão financeira desenvolvida para simplificar o controle fi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Visão:** Tornar a gestão financeira mais simples, inteligente e acessível.
-
-*Repositório privado — código-fonte não disponível publicamente.*
 
 ---
 
